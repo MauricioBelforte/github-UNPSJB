@@ -1,1 +1,2 @@
-# Este es un repositorio de la practica de git
+# Este es el repositorio de la practica de git
+
