@@ -1,1 +1,1 @@
-Este es un repo de prueba
+Repositorio dedicado a la practica de git
