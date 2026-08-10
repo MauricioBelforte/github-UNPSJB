@@ -1,1 +1,1 @@
-Este es un repo de prueba
+# Este es un repositorio de la practica de git
